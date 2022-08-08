@@ -47,4 +47,4 @@ To further investigate the competitiveness of the MechaCar, I would encourage fu
 
 The null hypotheses that could be tested against would be the hypothesis of 0 difference between MechaCar and competitors in these fields
 
-A number of specific tests, mostly stachastic analyses of usage patterns, gas prices, miles driven, etc. and a subsequent T-Test would be necessary to perform this statistical 
+A number of specific tests, mostly stachastic analyses of usage patterns, gas prices, miles driven, etc. and a subsequent T-Test would be necessary to perform this statistical examination
